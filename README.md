@@ -30,3 +30,37 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes component
    ```bash
    git clone https://github.com/tu-usuario/spotify-downloader.git
    cd spotify-downloader
+2. Instala las dependencias del proyecto:
+   ```bash
+   pip install -r requirements.txt
+3. Asegúrate de tener ffmpeg instalado y disponible en el PATH de tu sistema operativo. [Guía de instalación de FFmpeg](https://ffmpeg.org/download.html)
+
+## Uso
+
+1. Ejecuta la aplicación:
+   ```bash
+   python main.py
+2. Introduce la URL de una canción o playlist de Spotify en el campo correspondiente.
+3. Haz clic en "Descargar" para iniciar la descarga. La barra de progreso se mostrará una vez que comience la descarga.
+4. Los archivos descargados se guardarán en la carpeta Descargas dentro del directorio del proyecto.
+
+## Capturas de Pantalla
+
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos:
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+3. Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
+4. Haz push a la rama (git push origin feature/nueva-funcionalidad).
+5. Abre un Pull Request.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
+
+## Agradecimientos
+
+- [Spotipy](https://spotipy.readthedocs.io/en/2.16.1/) - Cliente de API de Spotify para Python.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Descargador de videos/audio de YouTube.
