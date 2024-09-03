@@ -53,6 +53,9 @@ Para asegurarte de que ffmpeg está instalado y configurado correctamente, puede
 
 ## Capturas de Pantalla
 
+![Pantalla Principal](Capturas/Convertidor.png)
+![Canción](Capturas/EjemploSong.png)
+![Álbum](Capturas/EjemploAlbum.png)
 
 ## Contribuciones
 
