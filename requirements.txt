@@ -1,0 +1,5 @@
+spotipy
+yt-dlp
+Pillow
+requests
+tk
