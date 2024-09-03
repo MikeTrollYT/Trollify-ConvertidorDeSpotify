@@ -54,9 +54,11 @@ Para asegurarte de que ffmpeg está instalado y configurado correctamente, puede
 ## Capturas de Pantalla
 
 <div style="text-align: center;">
-  <img src="Capturas/Convertidor.png" alt="Convertidor" width="300" style="display: inline-block; margin: 10px;" />
-  <img src="Capturas/EjemploSong.png" alt="Canción" width="300" style="display: inline-block; margin: 10px;" />
-  <img src="Capturas/EjemploAlbum.png" alt="Álbum" width="300" style="display: inline-block; margin: 10px;" />
+  <img src="Capturas/Convertidor.png" alt="Convertidor" width="400" style="display: inline-block; margin: 10px;" />
+  <img src="Capturas/EjemploSong.png" alt="Canción" width="400" style="display: inline-block; margin: 10px;" />
+</div>
+<div style="text-align: center; margin-top: 20px;">
+  <img src="Capturas/EjemploAlbum.png" alt="Álbum" width="600" style="display: inline-block; margin: 10px;" />
 </div>
 
 ## Contribuciones
