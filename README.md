@@ -35,6 +35,13 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes component
    pip install -r requirements.txt
 3. Asegúrate de tener ffmpeg instalado y disponible en el PATH de tu sistema operativo. [Guía de instalación de FFmpeg](https://ffmpeg.org/download.html)
 
+## Verificar la Instalación de FFmpeg
+Para asegurarte de que ffmpeg está instalado y configurado correctamente, puedes usar el script de prueba `prueba.py`.
+1. Ejecuta el script con el siguiente comando:
+   ```bash
+   python main.py
+2. Si el script descarga correctamente el archivo de prueba y no muestra errores, entonces ffmpeg está instalado y configurado correctamente.
+
 ## Uso
 
 1. Ejecuta la aplicación:
