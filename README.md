@@ -40,7 +40,7 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes component
 Para asegurarte de que ffmpeg está instalado y configurado correctamente, puedes usar el script de prueba `prueba.py`.
 1. Ejecuta el script con el siguiente comando:
    ```bash
-   python main.py
+   python prueba.py
 2. Si el script descarga correctamente el archivo de prueba y no muestra errores, entonces ffmpeg está instalado y configurado correctamente.
 
 ## Uso
