@@ -29,7 +29,7 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes component
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/MikeTrollYT/Trollify-ConvertidorDeSpotify.git
-   cd spotify-downloader
+   cd Trollify-ConvertidorDeSpotify
 2. Instala las dependencias del proyecto:
    ```bash
    pip install -r requirements.txt
