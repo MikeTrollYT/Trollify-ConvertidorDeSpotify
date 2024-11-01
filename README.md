@@ -36,6 +36,7 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes component
 3. Asegúrate de tener ffmpeg instalado y disponible en el PATH de tu sistema operativo. [Guía de instalación de FFmpeg](https://ffmpeg.org/download.html)
 
 ## Verificar la Instalación de FFmpeg
+
 Para asegurarte de que ffmpeg está instalado y configurado correctamente, puedes usar el script de prueba `prueba.py`.
 1. Ejecuta el script con el siguiente comando:
    ```bash
@@ -49,7 +50,7 @@ Para asegurarte de que ffmpeg está instalado y configurado correctamente, puede
    python main.py
 2. Introduce la URL de una canción o playlist de Spotify en el campo correspondiente.
 3. Haz clic en "Descargar" para iniciar la descarga. La barra de progreso se mostrará una vez que comience la descarga.
-4. Los archivos descargados se guardarán en la carpeta Descargas dentro del directorio del proyecto.
+4. Los archivos descargados se guardarán en la carpeta `Descargas` dentro del directorio del proyecto.
 
 ## Capturas de Pantalla
 
