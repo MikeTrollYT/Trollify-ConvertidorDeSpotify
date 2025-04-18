@@ -11,7 +11,10 @@ from io import BytesIO
 import threading
 
 # Leer credenciales desde el archivo
-with open('credentials.txt', 'r') as file:
+script_dir = os.path.dirname(os.path.abspath(__file__))  # Obtiene el directorio del script actual
+credentials_path = os.path.join(script_dir, 'credentials.txt')  # Construye la ruta absoluta
+
+with open(credentials_path, 'r') as file:
     CLIENT_ID = file.readline().strip()
     CLIENT_SECRET = file.readline().strip()
 
